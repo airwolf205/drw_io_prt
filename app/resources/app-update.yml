@@ -1,0 +1,4 @@
+owner: jgraph
+repo: drawio-desktop
+provider: github
+updaterCacheDirName: draw.io-updater
